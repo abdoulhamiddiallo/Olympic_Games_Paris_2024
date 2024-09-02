@@ -1,7 +1,7 @@
 # Olympic_Games_Paris_2024
 Olympic Games Paris 2024
 
-Ravi de vous partager ce Dashboard d’analyse des données des Jeux Olympiques réalisé avec Power BI. Cet outil vous permet d'analyser les performances des athlètes et des nations lors des JO de Paris 2024, ainsi que l'historique de tous les JO. Voici ce que vous pourrez explorer :
+Ravi de vous partager ce Dashboard d’analyse des données des Jeux Olympiques réalisé avec Power BI. Ce Dashboard vous permet d'analyser les performances des athlètes et des nations lors des JO de Paris 2024, ainsi que l'historique de tous les JO. Voici ce que vous pourrez explorer :
 
 Vue d’ensemble globale : Médailles d’or, d’argent et de bronze.
 
