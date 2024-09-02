@@ -8,7 +8,7 @@ Vue d’ensemble globale : Médailles d’or, d’argent et de bronze.
 Analyse par pays : Performances individuelles par pays, nombre de médailles remportées, athlètes participants, etc.
 
 Historique des médailles : L’évolution des performances depuis 1896, avec des graphiques illustrant la répartition des médailles par année, sexe et tranche d’âge.
-Classement des athlètes : Les athlètes les plus décorés, avec un focus sur les médailles qu’ils ont remportées.
+Classement des athlètes : Les athlètes les plus médaillés, avec un focus sur les médailles qu’ils ont remportées.
 
 Ce Dashboard offre une analyse approfondie des performances des nations et des athlètes au fil des années.
 
